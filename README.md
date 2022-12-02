@@ -6,7 +6,7 @@ doing one different language each day !
 # planned so far
 
 - [x] python (day 1 (accidentally))
-- [ ] [golfscript](http://www.golfscript.com/golfscript/)
+- [x] [golfscript](http://www.golfscript.com/golfscript/) (day 2)
 - [ ] awk
 - [ ] [koneko](https://github.com/obfusk/koneko)
 - [ ] zig
