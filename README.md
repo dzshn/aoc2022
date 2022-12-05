@@ -9,6 +9,7 @@ doing one different language each day !
 - [x] [golfscript](http://www.golfscript.com/golfscript/) (day 2)
 - [x] lisp (~~scheme~~ racket) (day 3)
 - [x] tcl (day 4)
+- [x] ada (day 5)
 - [ ] awk
 - [ ] [koneko](https://github.com/obfusk/koneko)
 - [ ] zig
