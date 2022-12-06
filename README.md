@@ -10,6 +10,7 @@ doing one different language each day !
 - [x] lisp (~~scheme~~ racket) (day 3)
 - [x] tcl (day 4)
 - [x] ada (day 5)
+- [x] elixir (day 6)
 - [ ] awk
 - [ ] [koneko](https://github.com/obfusk/koneko)
 - [ ] zig
