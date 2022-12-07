@@ -11,6 +11,7 @@ doing one different language each day !
 - [x] tcl (day 4)
 - [x] ada (day 5)
 - [x] elixir (day 6)
+- [x] D (day 7)
 - [ ] awk
 - [ ] [koneko](https://github.com/obfusk/koneko)
 - [ ] zig
