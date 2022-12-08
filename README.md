@@ -12,6 +12,7 @@ doing one different language each day !
 - [x] ada (day 5)
 - [x] elixir (day 6)
 - [x] D (day 7)
+- [x] lua (day 8)
 - [ ] awk
 - [ ] [koneko](https://github.com/obfusk/koneko)
 - [ ] zig
@@ -19,3 +20,4 @@ doing one different language each day !
 - [ ] go
 - [ ] rust
 - [ ] haskell
+
