@@ -36,6 +36,6 @@ i am too lazy to make build files. the general rule is all programs take input f
   The Brazilian government will seize all my belongings if I state my opinions on the language.
 - day 09: [LisPy](https://github.com/dzshn/lispy) ([part 1](09/pt1.lpy))
 
-  i developed a terrible lisp from doing racket earlier. but like i actually did and it sucks so much it takes 10 minutes to solve part 1 and it also eats 250 mb of ram lmaooo
+  i developed a terrible lisp from doing racket earlier. but like i actually did and it sucks so much ~~it takes 10 minutes to solve part 1 and it also eats 250 mb of ram lmaooo~~ nevermind i got real and it runs in 4 seconds now (still ass tho)
 
   please check out the repo for it i've gone insane
