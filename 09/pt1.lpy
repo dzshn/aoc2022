@@ -43,4 +43,4 @@
             (Let (res (Move tail head (Direction (First line)) (Int (Second line)) visited))
                 (Apply Aoc res)))))
 
-(Print (Length (Aoc)))
+(Length (Aoc))
